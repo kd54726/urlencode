@@ -12,5 +12,7 @@ git clone https://github.com/kd54726/urlencode
 Add the following to your .bashrc file:
 
 urlencode(){
+
 Python ~/tools/urlencode/urlencode.py
+
 }
