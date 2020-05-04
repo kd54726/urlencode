@@ -1,2 +1,2 @@
 # urlencode
-This tools helps to encode the string you input.
+This tools helps to encode the entire string you input.
